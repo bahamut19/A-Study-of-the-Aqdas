@@ -1,0 +1,60 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "The Aqdas As Life"
+  subtitle: "Building Distinct Communities of Glory"
+  author: "Joshua W. Adams"
+  reader-mode: true
+  date: "7/17/2024"
+  downloads: [pdf]
+  
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: "The Pillars of Belief"
+      chapters: 
+        - belief in god.qmd
+        - belief in the manifestation of god.qmd
+        - belief in the commands of god.qmd
+        - break the boundaries of self.qmd
+    - part: "Acts of Worship"
+      chapters: 
+        - obligatory prayer.qmd
+        - fasting.qmd
+        - worship.qmd
+    - part: "Personal Conduct"
+      chapters: 
+        - personal appearance.qmd
+        - personal conduct.qmd
+    - part: "Community and Family Life"
+      chapters: 
+        - badi calendar.qmd
+        - actions towards others.qmd
+        - inheritance.qmd
+        - houses of worship.qmd
+    - part: "The Houses of Justice"
+      chapters: 
+        - form.qmd
+        - funding.qmd
+        - functions.qmd
+##    - summary.qmd
+##    - references.qmd
+
+  output-file: "The Aqdas as Life"
+
+## bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrbook
+    output-file: "The Aqdas as Life"
+    fontsize: 9pt
+    number-depth: 6
+    toc-depth: 6
+
+editor: visual
+
