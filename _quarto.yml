@@ -28,6 +28,7 @@ book:
       chapters: 
         - personal appearance.qmd
         - personal conduct.qmd
+        - warnings to groups.qmd
     - part: "Community and Family Life"
       chapters: 
         - badi calendar.qmd
@@ -41,6 +42,7 @@ book:
         - form.qmd
         - funding.qmd
         - functions.qmd
+        - leadership before hoj.qmd
 ##    - summary.qmd
 ##    - references.qmd
 

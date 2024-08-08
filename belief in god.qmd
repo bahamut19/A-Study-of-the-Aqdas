@@ -26,6 +26,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Seeing - 1
 -   All-Sufficient - 1
 -   All-Wise - 2
+-   Ancient - 1
 -   Beloved - 2
 -   Bestower - 3
 -   Bountiful - 2
@@ -37,7 +38,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Everlasting - 1
 -   Exalted - 3
 -   Forgiving - 5
--   Generous - 2
+-   Generous - 3
 -   Great - 1
 -   Lord - 5
 -   Lord of all Beings - 2
@@ -59,15 +60,18 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of the Worlds - 2
 -   Majestic - 1
 -   Manifest - 1
+-   Manifestation of the Signs - 1
 -   Most Merciful - 1
 -   Merciful - 6
--   Mighty - 9
+-   Mighty - 11
 -   One - 1
+-   Powerful One - 1
 -   Praiseworthy - 1
 -   Provider of all Means - 1
 -   Purest - 1
 -   Revealer of the Verses - 2
 -   Ruler - 1
+-   Self-Subsisting - 1
 -   Self-Sufficient - 1
 -   Source of Inspiration - 1
 -   True - 2
