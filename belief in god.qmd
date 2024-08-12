@@ -18,8 +18,8 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 
 -   All-Bountiful - 1
 -   All-Hearing - 1
--   All-Informed - 1
--   All-Knowing - 4
+-   All-Informed - 2
+-   All-Knowing - 5
 -   Almighty - 3
 -   All-Merciful - 3
 -   All-Powerful - 5
@@ -32,14 +32,15 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Bountiful - 2
 -   Chosen - 1
 -   Commander - 1
--   Compassionate - 1
+-   Compassionate - 2
 -   Creator of the Heavens - 1
 -   Ever-Forgiving - 1
 -   Everlasting - 1
 -   Exalted - 3
 -   Forgiving - 5
--   Generous - 3
+-   Generous - 4
 -   Great - 1
+-   Greatest Infallibility - 1
 -   Lord - 5
 -   Lord of all Beings - 2
 -   Lord of Beauty - 1
@@ -62,8 +63,8 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Manifest - 1
 -   Manifestation of the Signs - 1
 -   Most Merciful - 1
--   Merciful - 6
--   Mighty - 11
+-   Merciful - 8
+-   Mighty - 12
 -   One - 1
 -   Powerful One - 1
 -   Praiseworthy - 1
@@ -75,7 +76,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Self-Sufficient - 1
 -   Source of Inspiration - 1
 -   True - 2
--   Wise - 2
+-   Wise - 3
 
 ## Fear God
 
@@ -84,3 +85,7 @@ All will perish from a single Word from God.
 ## Love God
 
 ## Win God's Love
+
+## No Partner as the Greatest Infallibility
+
+God has reserved this station for Himself. Has been revealed in this Manifestation (Baha'u'llah).

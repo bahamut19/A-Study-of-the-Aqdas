@@ -9,3 +9,9 @@ No restriction on hair.
 No restriction on clothing.
 
 No restriction on clothing material.
+
+## Men's Hair
+
+A man cannot shave his head. His hair cannot exceed his ears.
+
+![Figure 1: Examples of Men's Haircuts](images/Aqdas Haircut.png){fig-align="center"}
