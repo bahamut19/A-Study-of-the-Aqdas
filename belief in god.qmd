@@ -17,30 +17,34 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 ## Attributes and Names of God
 
 -   All-Bountiful - 1
+-   All-Forgiving - 1
 -   All-Hearing - 1
 -   All-Informed - 2
--   All-Knowing - 5
+-   All-Knowing - 8
 -   Almighty - 3
 -   All-Merciful - 3
 -   All-Powerful - 5
 -   All-Seeing - 1
 -   All-Sufficient - 1
--   All-Wise - 2
+-   All-Wise - 3
 -   Ancient - 1
--   Beloved - 2
+-   Beloved - 3
 -   Bestower - 3
 -   Bountiful - 2
--   Chosen - 1
+-   Chosen - 2
 -   Commander - 1
 -   Compassionate - 2
+-   Counselor - 1
 -   Creator of the Heavens - 1
 -   Ever-Forgiving - 1
 -   Everlasting - 1
--   Exalted - 3
+-   Exalted - 4
 -   Forgiving - 5
+-   Fulfiller - 1
 -   Generous - 4
 -   Great - 1
 -   Greatest Infallibility - 1
+-   Judge - 2
 -   Lord - 5
 -   Lord of all Beings - 2
 -   Lord of Beauty - 1
@@ -51,7 +55,9 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of Grace - 1
 -   Lord of Grandeur - 1
 -   Lord of Humankind - 1
+-   Lord of Innovation - 1
 -   Lord of Majesty - 1
+-   Lord of Names - 1
 -   Lord of Origin - 2
 -   Lord of Return - 2
 -   Lord of the Seen - 1
@@ -62,12 +68,15 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Majestic - 1
 -   Manifest - 1
 -   Manifestation of the Signs - 1
+-   Most Glorious - 1
+-   Most High - 1
 -   Most Merciful - 1
 -   Merciful - 8
--   Mighty - 12
--   One - 1
+-   Mighty - 14
+-   One - 2
+-   Possessor of all Names - 1
 -   Powerful One - 1
--   Praiseworthy - 1
+-   Praiseworthy - 2
 -   Provider of all Means - 1
 -   Purest - 1
 -   Revealer of the Verses - 2
@@ -76,6 +85,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Self-Sufficient - 1
 -   Source of Inspiration - 1
 -   True - 2
+-   Trustworthy - 1
 -   Wise - 3
 
 ## Fear God

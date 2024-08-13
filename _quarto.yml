@@ -18,6 +18,8 @@ book:
         - belief in god.qmd
         - belief in the manifestation of god.qmd
         - belief in the commands of god.qmd
+        - belief in angels.qmd
+        - greater world.qmd
         - break the boundaries of self.qmd
     - part: "Acts of Worship"
       chapters: 
@@ -44,6 +46,9 @@ book:
         - funding.qmd
         - functions.qmd
         - leadership before hoj.qmd
+    - part: "The Kitab-i-Aqdas"
+      chapters: 
+        - kitab-i-aqdas.qmd
 ##    - summary.qmd
 ##    - references.qmd
 

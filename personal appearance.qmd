@@ -14,4 +14,4 @@ No restriction on clothing material.
 
 A man cannot shave his head. His hair cannot exceed his ears.
 
-![Figure 1: Examples of Men's Haircuts](images/Aqdas Haircut.png){fig-align="center"}
+![Figure 1: Examples of Men's Haircuts](images/Aqdas%20Haircut.png){fig-align="center"}
