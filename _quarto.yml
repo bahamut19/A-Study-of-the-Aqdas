@@ -40,6 +40,9 @@ book:
         - houses of worship.qmd
         - disbelievers.qmd
         - prophecy.qmd
+    - part: "Relationship with Other Religion"
+      chapters: 
+        - armies of knowledge.qmd
     - part: "The Houses of Justice"
       chapters: 
         - form.qmd
