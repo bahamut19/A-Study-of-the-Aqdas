@@ -30,6 +30,7 @@ book:
       chapters: 
         - personal appearance.qmd
         - personal conduct.qmd
+        - housing.qmd
         - warnings to groups.qmd
     - part: "Community and Family Life"
       chapters: 

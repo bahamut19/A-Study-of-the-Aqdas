@@ -40,14 +40,14 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Everlasting - 1
 -   Exalted - 5
 -   Firm - 1
--   Forgiving - 5
+-   Forgiving - 7
 -   Fulfiller - 1
--   Generous - 4
+-   Generous - 5
 -   Great - 1
 -   Greatest Infallibility - 1
 -   Independent of All Worlds - 3
 -   Judge - 3
--   Lord - 5
+-   Lord - 6
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
 -   Lord of Bounty - 1
@@ -73,9 +73,9 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Most Glorious - 1
 -   Most High - 1
 -   Most Merciful - 1
--   Merciful - 8
--   Mighty - 14
--   One - 2
+-   Merciful - 10
+-   Mighty - 16
+-   One - 3
 -   Possessor of all Names - 1
 -   Powerful One - 1
 -   Praiseworthy - 2
@@ -86,9 +86,10 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Self-Subsisting - 1
 -   Self-Sufficient - 1
 -   Source of Inspiration - 1
+-   Subtle - 1
 -   True - 2
 -   Trustworthy - 1
--   Wise - 4
+-   Wise - 6
 
 ## Fear God
 
