@@ -21,8 +21,9 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Hearing - 1
 -   All-Informed - 3
 -   All-Knowing - 9
--   Almighty - 3
+-   Almighty - 4
 -   All-Merciful - 4
+-   All-Possessing - 2
 -   All-Powerful - 5
 -   All-Seeing - 1
 -   All-Sufficient - 1
@@ -35,7 +36,8 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Commander - 1
 -   Compassionate - 2
 -   Counselor - 1
--   Creator of the Heavens - 1
+-   Creator of the Earth and Heavens - 3
+-   Ever-Abiding - 2
 -   Ever-Forgiving - 1
 -   Everlasting - 1
 -   Exalted - 5
@@ -47,11 +49,12 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Greatest Infallibility - 1
 -   Independent of All Worlds - 3
 -   Judge - 3
--   Lord - 6
+-   Lord - 7
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
 -   Lord of Bounty - 1
 -   Lord of all Creation - 2
+-   Lord of Decree - 1
 -   Lord of Dominion - 1
 -   Lord of your Forefathers - 1
 -   Lord of Grace - 1
@@ -59,7 +62,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of Humankind - 1
 -   Lord of Innovation - 1
 -   Lord of Majesty - 1
--   Lord of Names - 1
+-   Lord of Names - 2
 -   Lord of Origin - 2
 -   Lord of Return - 2
 -   Lord of the Seen - 1
@@ -86,6 +89,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Self-Subsisting - 1
 -   Self-Sufficient - 1
 -   Source of Inspiration - 1
+-   Sovereign - 3
 -   Subtle - 1
 -   True - 2
 -   Trustworthy - 1
@@ -103,6 +107,8 @@ All will perish from a single Word from God.
 
 God has reserved this station for Himself. Has been revealed in this Manifestation (Baha'u'llah).
 
+## The Preserved Tablet (Lawh-i-Mahfuz)
+
 ## Independent
 
 Evil deeds do not harm Us, good deeds do not benefit Us. God calls us for the sake of God, meaning we do not do so for personal gain. We obey God because of our devotion and God wants what is good for us.
@@ -116,3 +122,9 @@ Independent of corruption.
 ## God Loves Unity and Concord
 
 ## God Abhors Separation and Divorce
+
+## By Whom Earthquakes Appeared
+
+## By Whom Tribes Lamented
+
+Except for those who cast aside the world and took what was commanded in the Hidden Tablet.
