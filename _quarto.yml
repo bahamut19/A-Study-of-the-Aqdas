@@ -16,23 +16,25 @@ book:
     - part: "The Pillars of Belief"
       chapters: 
         - belief in god.qmd
+        - belief in the human station.qmd
+        - belief in angels.qmd
+        - belief in the worlds.qmd
+        - belief in the day.qmd
         - belief in the manifestation of god.qmd
         - belief in the commands of god.qmd
-        - belief in angels.qmd
-        - greater world.qmd
-        - belief in the day.qmd
-        - break the boundaries of self.qmd
-    - part: "Acts of Worship"
+    - part: "The Relationship with God"
       chapters: 
         - obligatory prayer.qmd
         - fasting.qmd
         - worship.qmd
-    - part: "Personal Conduct"
+        - example of the long prayer.qmd
+    - part: "Life of the Individual"
       chapters: 
         - personal appearance.qmd
+        - personal values.qmd
+        - prohibitions.qmd
         - personal conduct.qmd
         - housing.qmd
-        - warnings to groups.qmd
     - part: "Community and Family Life"
       chapters: 
         - badi calendar.qmd
@@ -45,6 +47,10 @@ book:
     - part: "Relationship with Other Religion"
       chapters: 
         - armies of knowledge.qmd
+    - part: "Those Who Lead"
+      chapters: 
+        - leaders of religion.qmd
+        - leaders sovereign.qmd
     - part: "The Houses of Justice"
       chapters: 
         - form.qmd
