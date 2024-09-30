@@ -17,18 +17,19 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 ## Attributes and Names of God
 
 -   All-Bountiful - 1
+-   All-Encompassing - 1
 -   All-Forgiving - 1
 -   All-Hearing - 1
--   All-Informed - 3
--   All-Knowing - 9
+-   All-Informed - 4
+-   All-Knowing - 13
 -   Almighty - 4
 -   All-Merciful - 4
 -   All-Possessing - 2
 -   All-Powerful - 5
 -   All-Seeing - 1
 -   All-Sufficient - 1
--   All-Wise - 3
--   Ancient - 1
+-   All-Wise - 4
+-   Ancient - 2
 -   Beloved - 3
 -   Bestower - 3
 -   Bountiful - 2
@@ -36,24 +37,24 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Commander - 1
 -   Compassionate - 2
 -   Counselor - 1
--   Creator of the Earth and Heavens - 3
--   Ever-Abiding - 2
+-   Creator of the Earth and Heavens - 4
+-   Ever-Abiding - 3
 -   Ever-Forgiving - 1
--   Everlasting - 1
+-   Everlasting - 2
 -   Exalted - 5
 -   Firm - 1
--   Forgiving - 7
+-   Forgiving - 8
 -   Fulfiller - 1
--   Generous - 5
+-   Generous - 6
 -   Great - 1
 -   Greatest Infallibility - 1
 -   Independent of All Worlds - 3
 -   Judge - 3
--   Lord - 7
+-   Lord - 8
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
 -   Lord of Bounty - 1
--   Lord of all Creation - 2
+-   Lord of all Creation - 3
 -   Lord of Decree - 1
 -   Lord of Dominion - 1
 -   Lord of your Forefathers - 1
@@ -68,17 +69,19 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of the Seen - 1
 -   Lord of Sovereignty - 1
 -   Lord of Splendor - 1
+-   Lord of the Throne - 1
 -   Lord of the Unseen - 1
--   Lord of the Worlds - 2
+-   Lord of the Worlds - 3
 -   Majestic - 1
 -   Manifest - 1
 -   Manifestation of the Signs - 1
 -   Most Glorious - 1
 -   Most High - 1
 -   Most Merciful - 1
--   Merciful - 10
+-   Merciful - 11
 -   Mighty - 16
 -   One - 3
+-   Ordainer - 1
 -   Possessor of all Names - 1
 -   Powerful One - 1
 -   Praiseworthy - 2
@@ -90,10 +93,11 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Self-Sufficient - 1
 -   Source of Inspiration - 1
 -   Sovereign - 3
+-   Speaker - 1
 -   Subtle - 1
--   True - 2
+-   True - 3
 -   Trustworthy - 1
--   Wise - 6
+-   Wise - 7
 
 ## Fear God
 
@@ -128,3 +132,5 @@ Independent of corruption.
 ## By Whom Tribes Lamented
 
 Except for those who cast aside the world and took what was commanded in the Hidden Tablet.
+
+## The Root
