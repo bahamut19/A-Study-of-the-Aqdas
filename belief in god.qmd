@@ -20,16 +20,16 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Encompassing - 1
 -   All-Forgiving - 1
 -   All-Hearing - 1
--   All-Informed - 4
--   All-Knowing - 13
+-   All-Informed - 5
+-   All-Knowing - 14
 -   Almighty - 4
 -   All-Merciful - 4
 -   All-Possessing - 2
--   All-Powerful - 5
+-   All-Powerful - 6
 -   All-Seeing - 1
 -   All-Sufficient - 1
 -   All-Wise - 4
--   Ancient - 2
+-   Ancient - 3
 -   Beloved - 3
 -   Bestower - 3
 -   Bountiful - 2
@@ -37,7 +37,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Commander - 1
 -   Compassionate - 2
 -   Counselor - 1
--   Creator of the Earth and Heavens - 4
+-   Creator of the Earth and Heavens - 5
 -   Ever-Abiding - 3
 -   Ever-Forgiving - 1
 -   Everlasting - 2
@@ -50,7 +50,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Greatest Infallibility - 1
 -   Independent of All Worlds - 3
 -   Judge - 3
--   Lord - 8
+-   Lord - 9
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
 -   Lord of Bounty - 1
@@ -66,15 +66,18 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of Names - 2
 -   Lord of Origin - 2
 -   Lord of Return - 2
--   Lord of the Seen - 1
+-   Lord of the Seen - 2
 -   Lord of Sovereignty - 1
 -   Lord of Splendor - 1
 -   Lord of the Throne - 1
--   Lord of the Unseen - 1
--   Lord of the Worlds - 3
+-   Lord of the Unseen - 2
+-   Lord of the Worlds - 4
 -   Majestic - 1
 -   Manifest - 1
 -   Manifestation of the Signs - 1
+-   Most Bountiful - 1
+-   Most Exalted - 1
+-   Most Generous - 1
 -   Most Glorious - 1
 -   Most High - 1
 -   Most Merciful - 1
@@ -90,7 +93,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Revealer of the Verses - 2
 -   Ruler - 1
 -   Self-Subsisting - 1
--   Self-Sufficient - 1
+-   Self-Sufficient - 2
 -   Source of Inspiration - 1
 -   Sovereign - 3
 -   Speaker - 1
