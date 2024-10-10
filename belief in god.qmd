@@ -16,22 +16,24 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 
 ## Attributes and Names of God
 
+### Most excellent names and supreme attributes
+
 -   All-Bountiful - 1
 -   All-Encompassing - 1
 -   All-Forgiving - 1
 -   All-Hearing - 1
 -   All-Informed - 5
--   All-Knowing - 14
--   Almighty - 4
--   All-Merciful - 4
+-   All-Knowing - 15
+-   Almighty - 5
+-   All-Merciful - 6
 -   All-Possessing - 2
 -   All-Powerful - 6
 -   All-Seeing - 1
 -   All-Sufficient - 1
 -   All-Wise - 4
 -   Ancient - 3
--   Beloved - 3
--   Bestower - 3
+-   Beloved - 5
+-   Bestower - 4
 -   Bountiful - 2
 -   Chosen - 2
 -   Commander - 1
@@ -40,8 +42,9 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Creator of the Earth and Heavens - 5
 -   Ever-Abiding - 3
 -   Ever-Forgiving - 1
--   Everlasting - 2
+-   Everlasting - 3
 -   Exalted - 5
+-   Faithful Guardian - 1
 -   Firm - 1
 -   Forgiving - 8
 -   Fulfiller - 1
@@ -77,12 +80,12 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Manifestation of the Signs - 1
 -   Most Bountiful - 1
 -   Most Exalted - 1
--   Most Generous - 1
+-   Most Generous - 2
 -   Most Glorious - 1
 -   Most High - 1
--   Most Merciful - 1
+-   Most Merciful - 2
 -   Merciful - 11
--   Mighty - 16
+-   Mighty - 17
 -   One - 3
 -   Ordainer - 1
 -   Possessor of all Names - 1
