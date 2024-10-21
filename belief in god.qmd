@@ -22,20 +22,20 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Encompassing - 1
 -   All-Forgiving - 1
 -   All-Hearing - 1
--   All-Informed - 5
--   All-Knowing - 17
--   Almighty - 6
+-   All-Informed - 6
+-   All-Knowing - 21
+-   Almighty - 8
 -   All-Merciful - 6
 -   All-Possessing - 2
--   All-Powerful - 6
+-   All-Powerful - 7
 -   All-Seeing - 1
 -   All-Sufficient - 1
--   All-Wise - 5
+-   All-Wise - 6
 -   Ancient - 3
 -   Beloved - 5
 -   Bestower - 4
 -   Bountiful - 2
--   Chosen - 2
+-   Chosen - 3
 -   Commander - 1
 -   Compassionate - 2
 -   Counselor - 1
@@ -43,7 +43,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Ever-Abiding - 3
 -   Ever-Forgiving - 1
 -   Everlasting - 3
--   Exalted - 5
+-   Exalted - 6
 -   Faithful Guardian - 1
 -   Firm - 1
 -   Forgiving - 8
@@ -53,6 +53,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Greatest Infallibility - 1
 -   Independent of All Worlds - 3
 -   Judge - 3
+-   Knower of All Things - 1
 -   Lord - 9
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
@@ -66,7 +67,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of Humankind - 1
 -   Lord of Innovation - 1
 -   Lord of Majesty - 1
--   Lord of Names - 2
+-   Lord of Names - 3
 -   Lord of Origin - 2
 -   Lord of Return - 2
 -   Lord of the Seen - 2
@@ -75,22 +76,24 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of the Throne - 1
 -   Lord of the Unseen - 2
 -   Lord of the Worlds - 4
--   Majestic - 1
+-   Majestic - 2
 -   Manifest - 1
 -   Manifestation of the Signs - 1
--   Mighty - 1
+-   Master - 1
+-   Mighty - 2
 -   Most Bountiful - 1
+-   Most Compassionate - 1
 -   Most Exalted - 1
 -   Most Generous - 2
 -   Most Glorious - 1
 -   Most High - 1
--   Most Merciful - 3
+-   Most Merciful - 5
 -   Merciful - 11
 -   Mighty - 17
 -   One - 3
--   Ordainer - 1
+-   Ordainer - 2
 -   Possessor of all Names - 1
--   Powerful One - 1
+-   Powerful One - 2
 -   Praised - 1
 -   Praiseworthy - 2
 -   Provider of all Means - 1
@@ -104,17 +107,10 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Sovereign - 4
 -   Speaker - 1
 -   Subtle - 1
--   True - 4
+-   Subduer - 1
+-   True - 5
 -   Trustworthy - 1
 -   Wise - 7
-
-## Fear God
-
-All will perish from a single Word from God.
-
-## Love God
-
-## Win God's Love
 
 ## No Partner as the Greatest Infallibility
 
@@ -143,3 +139,11 @@ Independent of corruption.
 Except for those who cast aside the world and took what was commanded in the Hidden Tablet.
 
 ## The Root
+
+## The Purpose of God
+
+Blessed is the one who understands the purpose of God in what has been revealed from the heaven of His will, which reigns supreme over all the worlds
+
+## As Almighty
+
+Can seize the world with a single word of His presence
