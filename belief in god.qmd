@@ -24,10 +24,11 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Hearing - 1
 -   All-Informed - 6
 -   All-Knowing - 21
--   Almighty - 8
+-   Almighty - 9
 -   All-Merciful - 6
 -   All-Possessing - 2
 -   All-Powerful - 7
+-   All-Praised - 1
 -   All-Seeing - 1
 -   All-Sufficient - 1
 -   All-Wise - 6
@@ -51,6 +52,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Generous - 6
 -   Great - 1
 -   Greatest Infallibility - 1
+-   Inaccessible - 1
 -   Independent of All Worlds - 3
 -   Judge - 3
 -   Knower of All Things - 1
@@ -60,6 +62,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of Bounty - 1
 -   Lord of all Creation - 3
 -   Lord of Decree - 1
+-   Lord of Destiny - 1
 -   Lord of Dominion - 1
 -   Lord of your Forefathers - 1
 -   Lord of Grace - 1
@@ -80,7 +83,8 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Manifest - 1
 -   Manifestation of the Signs - 1
 -   Master - 1
--   Mighty - 2
+-   Merciful - 3
+-   Mighty - 4
 -   Most Bountiful - 1
 -   Most Compassionate - 1
 -   Most Exalted - 1
@@ -109,7 +113,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Subtle - 1
 -   Subduer - 1
 -   True - 5
--   Trustworthy - 1
+-   Trustworthy - 2
 -   Wise - 7
 
 ## No Partner as the Greatest Infallibility
@@ -137,8 +141,6 @@ Independent of corruption.
 ## By Whom Tribes Lamented
 
 Except for those who cast aside the world and took what was commanded in the Hidden Tablet.
-
-## The Root
 
 ## The Purpose of God
 
