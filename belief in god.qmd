@@ -23,7 +23,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Forgiving - 1
 -   All-Hearing - 1
 -   All-Informed - 6
--   All-Knowing - 21
+-   All-Knowing - 22
 -   Almighty - 9
 -   All-Merciful - 6
 -   All-Possessing - 2
@@ -31,7 +31,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Praised - 1
 -   All-Seeing - 1
 -   All-Sufficient - 1
--   All-Wise - 6
+-   All-Wise - 7
 -   Ancient - 3
 -   Beloved - 5
 -   Bestower - 4
@@ -56,7 +56,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Independent of All Worlds - 3
 -   Judge - 3
 -   Knower of All Things - 1
--   Lord - 9
+-   Lord - 10
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
 -   Lord of Bounty - 1
@@ -78,12 +78,12 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of Splendor - 1
 -   Lord of the Throne - 1
 -   Lord of the Unseen - 2
--   Lord of the Worlds - 4
+-   Lord of the Worlds - 6
 -   Majestic - 2
 -   Manifest - 1
 -   Manifestation of the Signs - 1
 -   Master - 1
--   Merciful - 3
+-   Merciful - 6
 -   Mighty - 4
 -   Most Bountiful - 1
 -   Most Compassionate - 1
@@ -115,6 +115,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   True - 5
 -   Trustworthy - 2
 -   Wise - 7
+-   Worshiped One - 1
 
 ## No Partner as the Greatest Infallibility
 
