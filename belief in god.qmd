@@ -23,16 +23,17 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Forgiving - 1
 -   All-Hearing - 1
 -   All-Informed - 6
--   All-Knowing - 22
--   Almighty - 9
+-   All-Knowing - 24
+-   Almighty - 10
 -   All-Merciful - 6
 -   All-Possessing - 2
 -   All-Powerful - 7
 -   All-Praised - 1
 -   All-Seeing - 1
 -   All-Sufficient - 1
--   All-Wise - 7
+-   All-Wise - 8
 -   Ancient - 3
+-   Avenger - 1
 -   Beloved - 5
 -   Bestower - 4
 -   Bountiful - 2
@@ -44,20 +45,21 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Ever-Abiding - 3
 -   Ever-Forgiving - 1
 -   Everlasting - 3
--   Exalted - 6
+-   Exalted - 7
 -   Faithful Guardian - 1
 -   Firm - 1
--   Forgiving - 8
+-   Forgiving - 9
 -   Fulfiller - 1
--   Generous - 6
+-   Generous - 7
 -   Grace - 1
 -   Great - 1
 -   Greatest Infallibility - 1
 -   Inaccessible - 1
 -   Independent of All Worlds - 3
--   Judge - 3
+-   Judge - 4
+-   Just - 1
 -   Knower of All Things - 1
--   Lord - 10
+-   Lord - 11
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
 -   Lord of Bounty - 1
@@ -80,12 +82,12 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of Splendor - 1
 -   Lord of the Throne - 1
 -   Lord of the Unseen - 2
--   Lord of the Worlds - 6
+-   Lord of the Worlds - 7
 -   Majestic - 2
 -   Manifest - 1
 -   Manifestation of the Signs - 1
 -   Master - 1
--   Merciful - 8
+-   Merciful - 9
 -   Mighty - 4
 -   Most Bountiful - 2
 -   Most Compassionate - 1
@@ -97,7 +99,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Merciful - 11
 -   Mighty - 17
 -   One - 3
--   Ordainer - 2
+-   Ordainer - 3
 -   Possessor of all Names - 1
 -   Powerful One - 2
 -   Praised - 1
@@ -160,3 +162,5 @@ Can seize the world with a single word of His presence
 ## Covenant of God
 
 He who does not recite has not fulfilled the covenant of God and His testament, and whoever turns away from it today is among those who turned away from God in the eternity of eternities.
+
+## The Breath of God

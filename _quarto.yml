@@ -28,6 +28,7 @@ book:
         - obligatory prayer.qmd
         - fasting.qmd
         - worship.qmd
+        - houses of worship.qmd
         - example of the long prayer.qmd
     - part: "Life of the Individual"
       chapters: 
@@ -42,9 +43,10 @@ book:
         - actions towards others.qmd
         - family life.qmd
         - inheritance.qmd
-        - houses of worship.qmd
         - disbelievers.qmd
         - prophecy.qmd
+        - business.qmd
+        - cities.qmd
     - part: "Relationship with Other Religion"
       chapters: 
         - armies of knowledge.qmd
