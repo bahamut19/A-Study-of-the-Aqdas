@@ -22,16 +22,17 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Encompassing - 1
 -   All-Forgiving - 1
 -   All-Hearing - 1
--   All-Informed - 6
--   All-Knowing - 24
--   Almighty - 10
--   All-Merciful - 6
+-   All-Informed - 7
+-   All-Knowing - 27
+-   Almighty - 13
+-   All-Merciful - 8
 -   All-Possessing - 2
 -   All-Powerful - 7
 -   All-Praised - 1
 -   All-Seeing - 1
+-   All-Subduing - 1
 -   All-Sufficient - 1
--   All-Wise - 8
+-   All-Wise - 9
 -   Ancient - 3
 -   Avenger - 1
 -   Beloved - 5
@@ -41,16 +42,17 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Commander - 1
 -   Compassionate - 2
 -   Counselor - 1
--   Creator of the Earth and Heavens - 5
+-   Creator of the Earth and Heavens - 6
+-   Dawning Place of Signs - 1
 -   Ever-Abiding - 3
 -   Ever-Forgiving - 1
 -   Everlasting - 3
--   Exalted - 7
+-   Exalted - 8
 -   Faithful Guardian - 1
 -   Firm - 1
--   Forgiving - 9
+-   Forgiving - 11
 -   Fulfiller - 1
--   Generous - 7
+-   Generous - 9
 -   Grace - 1
 -   Great - 1
 -   Greatest Infallibility - 1
@@ -59,7 +61,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Judge - 4
 -   Just - 1
 -   Knower of All Things - 1
--   Lord - 11
+-   Lord - 12
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
 -   Lord of Bounty - 1
@@ -70,8 +72,8 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of your Forefathers - 1
 -   Lord of Grace - 1
 -   Lord of Grandeur - 1
--   Lord of Humankind - 1
--   Lord of Innovation - 1
+-   Lord of Humankind - 2
+-   Lord of Innovation - 2
 -   Lord of the Last and the First - 1
 -   Lord of Majesty - 1
 -   Lord of Names - 3
@@ -88,14 +90,14 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Manifestation of the Signs - 1
 -   Master - 1
 -   Merciful - 9
--   Mighty - 4
+-   Mighty - 5
 -   Most Bountiful - 2
 -   Most Compassionate - 1
 -   Most Exalted - 1
 -   Most Generous - 3
 -   Most Glorious - 1
 -   Most High - 1
--   Most Merciful - 5
+-   Most Merciful - 6
 -   Merciful - 11
 -   Mighty - 17
 -   One - 3
@@ -109,8 +111,8 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Reckoner - 1
 -   Revealer of the Verses - 2
 -   Ruler - 1
--   Self-Subsisting - 1
--   Self-Sufficient - 2
+-   Self-Subsisting - 3
+-   Self-Sufficient - 3
 -   Source of Inspiration - 1
 -   Sovereign - 4
 -   Speaker - 1
@@ -118,7 +120,8 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Subduer - 1
 -   True - 5
 -   Trustworthy - 2
--   Wise - 7
+-   Wise - 8
+-   Wondrous - 1
 -   Worshiped One - 1
 
 ## No Partner as the Greatest Infallibility
@@ -154,6 +157,8 @@ Blessed is the one who understands the purpose of God in what has been revealed 
 ## Every Beginning is From God
 
 And unto Him it returns. He is indeed the source of creation and the ultimate destination of all the worlds.
+
+## Every Name Has Been Created His Word
 
 ## As Almighty
 
