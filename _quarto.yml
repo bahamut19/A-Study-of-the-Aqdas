@@ -60,9 +60,9 @@ book:
         - funding.qmd
         - functions.qmd
         - leadership before hoj.qmd
-    - part: "The Kitab-i-Aqdas"
-      chapters: 
-        - kitab-i-aqdas.qmd
+##    - part: "The Kitab-i-Aqdas"
+##      chapters: 
+##        - kitab-i-aqdas.qmd
 ##    - summary.qmd
 ##    - references.qmd
 

@@ -25,12 +25,12 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   All-Informed - 7
 -   All-Knowing - 27
 -   Almighty - 13
--   All-Merciful - 8
+-   All-Merciful - 10
 -   All-Possessing - 2
 -   All-Powerful - 7
 -   All-Praised - 1
 -   All-Seeing - 1
--   All-Subduing - 1
+-   All-Subduing - 2
 -   All-Sufficient - 1
 -   All-Wise - 9
 -   Ancient - 3
@@ -41,7 +41,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Chosen - 3
 -   Commander - 1
 -   Compassionate - 2
--   Counselor - 1
+-   Counselor - 2
 -   Creator of the Earth and Heavens - 6
 -   Dawning Place of Signs - 1
 -   Ever-Abiding - 3
@@ -61,7 +61,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Judge - 4
 -   Just - 1
 -   Knower of All Things - 1
--   Lord - 12
+-   Lord - 14
 -   Lord of all Beings - 3
 -   Lord of Beauty - 1
 -   Lord of Bounty - 1
@@ -69,7 +69,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of Decree - 1
 -   Lord of Destiny - 1
 -   Lord of Dominion - 1
--   Lord of your Forefathers - 1
+-   Lord of your Forefathers - 2
 -   Lord of Grace - 1
 -   Lord of Grandeur - 1
 -   Lord of Humankind - 2
@@ -120,7 +120,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Subduer - 1
 -   True - 5
 -   Trustworthy - 2
--   Wise - 8
+-   Wise - 9
 -   Wondrous - 1
 -   Worshiped One - 1
 
@@ -143,6 +143,10 @@ Independent of corruption.
 ## God Loves Unity and Concord
 
 ## God Abhors Separation and Divorce
+
+## God's Grace
+
+## God's Bounty
 
 ## By Whom Earthquakes Appeared
 
