@@ -19,15 +19,16 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 ### Most excellent names and supreme attributes
 
 -   All-Bountiful - 1
+-   All-Capable - 1
 -   All-Encompassing - 1
 -   All-Forgiving - 1
 -   All-Hearing - 1
--   All-Informed - 7
--   All-Knowing - 27
--   Almighty - 13
+-   All-Informed - 8
+-   All-Knowing - 28
+-   Almighty - 15
 -   All-Merciful - 10
 -   All-Possessing - 2
--   All-Powerful - 7
+-   All-Powerful - 8
 -   All-Praised - 1
 -   All-Seeing - 1
 -   All-Subduing - 2
@@ -50,10 +51,11 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Exalted - 8
 -   Faithful Guardian - 1
 -   Firm - 1
--   Forgiving - 11
+-   Forgiving - 12
 -   Fulfiller - 1
--   Generous - 9
+-   Generous - 10
 -   Grace - 1
+-   Gracious - 1
 -   Great - 1
 -   Greatest Infallibility - 1
 -   Inaccessible - 1
@@ -85,12 +87,13 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Lord of the Throne - 1
 -   Lord of the Unseen - 2
 -   Lord of the Worlds - 7
+-   Loving - 1
 -   Majestic - 2
 -   Manifest - 1
 -   Manifestation of the Signs - 1
 -   Master - 1
--   Merciful - 9
--   Mighty - 5
+-   Merciful - 10
+-   Mighty - 6
 -   Most Bountiful - 2
 -   Most Compassionate - 1
 -   Most Exalted - 1
@@ -100,7 +103,8 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Most Merciful - 6
 -   Merciful - 11
 -   Mighty - 17
--   One - 3
+-   Oft-Forgiving - 1
+-   One - 4
 -   Ordainer - 3
 -   Possessor of all Names - 1
 -   Powerful One - 2
@@ -118,7 +122,7 @@ The Kitab-i-Ahd reminds the people to always remember "All is from God." This ph
 -   Speaker - 1
 -   Subtle - 1
 -   Subduer - 1
--   True - 5
+-   True - 6
 -   Trustworthy - 2
 -   Wise - 9
 -   Wondrous - 1
