@@ -3,8 +3,8 @@ project:
   output-dir: _book
 
 book:
-  title: "The Aqdas As Life"
-  subtitle: "Building Distinct Communities of Glory"
+  title: "Communities of Glory"
+  subtitle: "An Exploration of the Kitab-i-Aqdas"
   author: "Joshua W. Adams"
   reader-mode: true
   date: "7/17/2024"
@@ -25,6 +25,7 @@ book:
         - belief in the manifestation of god.qmd
     - part: "The Relationship with God"
       chapters: 
+        - personal values.qmd
         - obligatory prayer.qmd
         - fasting.qmd
         - worship.qmd
@@ -33,7 +34,6 @@ book:
     - part: "Life of the Individual"
       chapters: 
         - personal appearance.qmd
-        - personal values.qmd
         - prohibitions.qmd
         - personal conduct.qmd
         - mirza yahya.qmd
@@ -45,12 +45,10 @@ book:
         - family life.qmd
         - inheritance.qmd
         - disbelievers.qmd
+        - armies of knowledge.qmd
         - prophecy.qmd
         - business.qmd
         - cities.qmd
-    - part: "Relationship with Other Religion"
-      chapters: 
-        - armies of knowledge.qmd
     - part: "Those Who Lead"
       chapters: 
         - leaders of religion.qmd
