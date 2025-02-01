@@ -77,7 +77,11 @@ format:
     output-file: "The Aqdas as Life"
     fontsize: 9pt
     number-depth: 6
-    toc-depth: 6
+    toc-depth: 1
+  docx:
+    reference-doc: reference1.docx
+    toc-depth: 1
+    number-depth: 6
 
 editor: visual
 
