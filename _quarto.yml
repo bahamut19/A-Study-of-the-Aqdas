@@ -23,10 +23,10 @@ book:
         - belief in the manifestation of god.qmd
     - part: "The Relationship with God"
       chapters: 
-        - personal values.qmd
+        - foundational virtues.qmd
         - obligatory prayer.qmd
-        - fasting.qmd
         - worship.qmd
+        - honoring god.qmd
         - houses of worship.qmd
         - example of the long prayer.qmd
     - part: "Life of the Individual"
@@ -39,6 +39,7 @@ book:
     - part: "Community and Family Life"
       chapters: 
         - badi calendar.qmd
+        - fasting.qmd
         - actions towards others.qmd
         - family life.qmd
         - inheritance.qmd
