@@ -25,7 +25,9 @@ book:
       chapters: 
         - foundational virtues.qmd
         - obligatory prayer.qmd
-        - worship.qmd
+        - recitation.qmd
+        - remembrance.qmd
+        - reflection.qmd
         - honoring god.qmd
         - houses of worship.qmd
         - example of the long prayer.qmd
