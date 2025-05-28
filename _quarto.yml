@@ -29,8 +29,8 @@ book:
         - remembrance.qmd
         - reflection.qmd
         - honoring god.qmd
-        - houses of worship.qmd
-        - example of the long prayer.qmd
+##        - houses of worship.qmd
+##        - example of the long prayer.qmd
         - unity.qmd
     - part: "Life of the Individual"
       chapters: 
@@ -41,13 +41,13 @@ book:
         - housing.qmd
     - part: "Community and Family Life"
       chapters: 
-        - badi calendar.qmd
-        - fasting.qmd
+ ##       - badi calendar.qmd
+ ##       - fasting.qmd
         - actions towards others.qmd
         - family life.qmd
         - inheritance.qmd
         - disbelievers.qmd
-        - armies of knowledge.qmd
+##        - armies of knowledge.qmd
         - prophecy.qmd
         - business.qmd
         - cities.qmd
