@@ -7,7 +7,7 @@ book:
   subtitle: "An Exploration of the Kitab-i-Aqdas"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "3/30/2025"
+  date: "6/24/2025"
   downloads: [pdf]
   
   chapters:
@@ -29,38 +29,36 @@ book:
         - remembrance.qmd
         - reflection.qmd
         - honoring god.qmd
-##        - houses of worship.qmd
-##        - example of the long prayer.qmd
-##        - unity.qmd
-    - part: "Life of the Individual"
-      chapters: 
-        - personal appearance.qmd
-        - prohibitions.qmd
-        - personal conduct.qmd
-        - mirza yahya.qmd
-        - housing.qmd
-    - part: "Community and Family Life"
-      chapters: 
+        - unity.qmd
+##    - part: "Life of the Individual"
+##      chapters: 
+##        - personal appearance.qmd
+##        - prohibitions.qmd
+##        - personal conduct.qmd
+##        - mirza yahya.qmd
+##        - housing.qmd
+##    - part: "Community and Family Life"
+##      chapters: 
  ##       - badi calendar.qmd
  ##       - fasting.qmd
-        - actions towards others.qmd
-        - family life.qmd
-        - inheritance.qmd
-        - disbelievers.qmd
+##        - actions towards others.qmd
+##        - family life.qmd
+##        - inheritance.qmd
+##        - disbelievers.qmd
 ##        - armies of knowledge.qmd
-        - prophecy.qmd
-        - business.qmd
-        - cities.qmd
-    - part: "Those Who Lead"
-      chapters: 
-        - leaders of religion.qmd
-        - leaders sovereign.qmd
-    - part: "The Houses of Justice"
-      chapters: 
-        - form.qmd
-        - funding.qmd
-        - functions.qmd
-        - leadership before hoj.qmd
+##        - prophecy.qmd
+##        - business.qmd
+##        - cities.qmd
+##    - part: "Those Who Lead"
+##      chapters: 
+##        - leaders of religion.qmd
+##        - leaders sovereign.qmd
+##    - part: "The Houses of Justice"
+##      chapters: 
+##        - form.qmd
+##        - funding.qmd
+##        - functions.qmd
+##        - leadership before hoj.qmd
 ##    - part: "The Kitab-i-Aqdas"
 ##      chapters: 
 ##        - kitab-i-aqdas.qmd
