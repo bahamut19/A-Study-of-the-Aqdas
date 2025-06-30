@@ -7,7 +7,7 @@ book:
   subtitle: "An Exploration of the Kitab-i-Aqdas"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "6/24/2025"
+  date: "6/29/2025"
   downloads: [pdf]
   
   chapters:
@@ -59,6 +59,11 @@ book:
 ##        - funding.qmd
 ##        - functions.qmd
 ##        - leadership before hoj.qmd
+    - part: "Appendices"
+      chapters:
+        - Appendix 1.qmd
+        - Appendix 2.qmd
+        - Appendix 3.qmd
 ##    - part: "The Kitab-i-Aqdas"
 ##      chapters: 
 ##        - kitab-i-aqdas.qmd
