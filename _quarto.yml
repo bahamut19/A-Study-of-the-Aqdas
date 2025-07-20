@@ -7,7 +7,7 @@ book:
   subtitle: "An Exploration of the Kitab-i-Aqdas"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "6/29/2025"
+  date: "7/19/2025"
   downloads: [pdf]
   
   chapters:
@@ -30,35 +30,20 @@ book:
         - reflection.qmd
         - honoring god.qmd
         - unity.qmd
-##    - part: "Life of the Individual"
-##      chapters: 
-##        - personal appearance.qmd
-##        - prohibitions.qmd
-##        - personal conduct.qmd
-##        - mirza yahya.qmd
-##        - housing.qmd
-##    - part: "Community and Family Life"
-##      chapters: 
- ##       - badi calendar.qmd
- ##       - fasting.qmd
-##        - actions towards others.qmd
-##        - family life.qmd
-##        - inheritance.qmd
-##        - disbelievers.qmd
-##        - armies of knowledge.qmd
-##        - prophecy.qmd
-##        - business.qmd
-##        - cities.qmd
-##    - part: "Those Who Lead"
-##      chapters: 
-##        - leaders of religion.qmd
-##        - leaders sovereign.qmd
-##    - part: "The Houses of Justice"
+    - part: "Rights and Responsibilities"
+      chapters: 
+        - from birth to maturity.qmd
+
+##    - part: "Governance"
 ##      chapters: 
 ##        - form.qmd
 ##        - funding.qmd
 ##        - functions.qmd
 ##        - leadership before hoj.qmd
+##        - prophecy.qmd
+##        - leaders of religion.qmd
+##        - leaders sovereign.qmd
+##        - mirza yahya.qmd
     - part: "Appendices"
       chapters:
         - Appendix 1.qmd
