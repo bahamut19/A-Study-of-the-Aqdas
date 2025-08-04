@@ -7,7 +7,7 @@ book:
   subtitle: "An Exploration of the Kitab-i-Aqdas"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "7/19/2025"
+  date: "8/4/2025"
   downloads: [pdf]
   
   chapters:
@@ -33,6 +33,13 @@ book:
     - part: "Rights and Responsibilities"
       chapters: 
         - from birth to maturity.qmd
+        - maturity to devotion.qmd
+        - the private self.qmd
+        - social conduct.qmd
+        - relationships.qmd
+        - marriage.qmd
+        - family life.qmd
+        - return to god.qmd
 
 ##    - part: "Governance"
 ##      chapters: 
