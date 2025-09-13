@@ -7,7 +7,7 @@ book:
   subtitle: "An Exploration of the Kitab-i-Aqdas"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "8/24/2025"
+  date: "9/12/2025"
   downloads: [pdf]
   
   chapters:
@@ -35,7 +35,8 @@ book:
         - from birth to maturity.qmd
         - maturity to devotion.qmd
         - the private self.qmd
-        - social conduct.qmd
+        - constructive social life.qmd
+        - protective social life.qmd
         - relationships.qmd
         - marriage.qmd
         - family life.qmd
