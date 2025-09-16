@@ -5,9 +5,10 @@ project:
 book:
   title: "Achieving True Freedom"
   subtitle: "An Exploration of the Kitab-i-Aqdas"
+  version: "1st Draft"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "9/12/2025"
+  date: "9/15/2025"
   downloads: [pdf]
   
   chapters:
@@ -57,6 +58,7 @@ book:
         - Appendix 1.qmd
         - Appendix 2.qmd
         - Appendix 3.qmd
+        - Appendix 4.qmd
 ##    - part: "The Kitab-i-Aqdas"
 ##      chapters: 
 ##        - kitab-i-aqdas.qmd

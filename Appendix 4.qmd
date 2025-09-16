@@ -1,0 +1,27 @@
+---
+title: "Appendix 4: The Bayanic Mithqal"
+---
+
+### Bayánic Mithqál
+
+The Bayánic Mithqál is a unit of weight defined in the *Persian Bayán* (Vahid 5, Gate 19) as the measure of nineteen grains (nakhuds).
+
+-   1 nakhud ≈ 0.195 grams (Qajar-era standard)[^appendix-4-1]
+
+-   1 Bayánic Mithqál ≈ 3.705 grams
+
+[^appendix-4-1]: Marcinkowski, M. Ismail, Measures and weights in the Islamic world : an English translation of Walther Hinz's hanbook "Islamsche Masse und Gewichte" (2003)
+
+    <https://www.amazon.com/Measures-weights-Islamic-world-translation/dp/B0BB8CMY26>
+
+Conversions
+
+-   1 Bayánic Mithqál ≈ 0.119 troy ounces
+
+-   9 Bayánic Mithqáls ≈ 33.345 grams ≈ 1.072 troy ounces
+
+-   19 Bayánic Mithqáls ≈ 70.395 grams ≈ 2.263 troy ounces
+
+-   95 Bayánic Mithqáls ≈ 352.975 grams ≈ 11.348 troy ounces
+
+-   100 Bayánic Mithqáls ≈ 370.500 grams ≈ 11.909 troy ounces
