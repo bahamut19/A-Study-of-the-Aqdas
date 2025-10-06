@@ -1,0 +1,48 @@
+---
+title: "Appendix 5: Letters and Meanings"
+---
+
+The following is a list of Arabic letters, their associated numerical values (based on the abjad system where utilized in the sources), and the primary symbolism ascribed to them:
+
+| Letter (Arabic) | Abjad Value (Standard/Contextual) | Symbolism and Significance |
+|------------------|---------------------------|---------------------------|
+| **Alif** | 1 (Implicit in sequence/One) | Represents the Divine Identity, blessings upon creation, and the letter of beginning. Symbol of affirmation in the utterance "but God". The first letter that spoke from God. Its total number of letters (A-L-F) is the number of the Most Exalted Name. It is the origin of all contingent and existential numbers. |
+| \- *Hidden Alif* (Soft Alif) | \- | Station of Destiny or Beauty, reflects the countenance of 'Ali (reserved for his successor). |
+| \- *Standing Alif* | \- | Established all creation in the kingdoms of creation and command. |
+| **Ba** | 2 (Implicit) | The Throne upon which the All-Merciful is established. First letter of the Book. The origin of all creation, as the Point dissolved and the Point was found beneath it. The innermost essence of Primary and Secondary Eternity, and multiplicity. |
+| **Jim** | 3 (Implicit) | Derived Name: Holy (Quddús). The sum of its similar numerical values in the Temple equals the number of "Allah" (36). |
+| **Dal** | 4 (Implicit) | Letter of finitude and limitation in the Muhammadan station. |
+| **Ha** | 5 (Explicitly \$\\text{Ha}'\$) | Numerical value is 5. Symbolizes unity in the heart and detachment in praise. The outer form of the Temple of Man. The completion of man's creation in five years. The spirit of the *Surih*. The first line in the Temple is the number of knowledge. |
+| **Vav** | 6 (Explicitly \$\\text{Vav}\$) | Inner form of the Temple of Man. Letter of Being. Symbolizes Universal Guardianship and the spirit of the letter Ha. Its number is the number of Truth. |
+| **Za** | 7 (Implicit) | Similar Za's (in the ninth line of Temple computation) total 84 (Aziz). Related to the Book of David (Book of Za'). |
+| **Ha (glutteral)** | 8 (Implicit) | One of the four letters of the Hidden, Well-Guarded Name (Bearers of creation, provision, death, life). |
+| **Ta** | 9 (Implicit) | Related to the Pentateuch (Book of Ta'). Similar Ta's (in the eleventh line of Temple computation) total 108 (Haqq/Truth). |
+| **Ya** | 10 (Implicit) | The final letter of the name of 'Ali. Manifestation of God's Hand. The number of Ya is associated with the recommended age for a woman to marry. |
+| **Kaf** | 20 (Implicit) | First word of the Command (Kun/Be!). Rank of the Primal Will. |
+| **Lam** | 30 (Implicit) | Banner of Grandeur/Divine Unity. Standard of Divine Unity. Its numerical value (30) is the number of nights God promised Moses. The Lam of multiplicity joins the Alif of unity (derivation of the cross). |
+| **Mim** | 40 (Explicitly 40) | First letter of Will (Mashiyyat). Completion of the appointed time/ranks (40 years). Letter of Glory/essence of manifestation. |
+| **Nun** | 50 (Implicit) | Rank of Purpose. Light of God in the niche/Covenant. Light of creation/invention/origination/glory. |
+| **Sad** | 60 (Implicit) | Glory of splendor, praise, Cloud, and Destiny. |
+| **'Ayn** | 70 (Implicit) | Inmost Reality of the Will. Completion of the letters of the command "Be!". Transcendence of Divine Unity. |
+| **Fa** | 80 (Implicit) | Uniqueness of unity, All-Merciful, signs, and stations. Through its cleaving asunder, creation was wrought. |
+| **Qaf** | 100 (Implicit) | Mention of Power/ocean of Oneness. Manifestation of praise (in the Point). The Qaf mentioned in the Glorious Qur'an. |
+| **Ra** | 200 (Implicit) | Primary, Eternal Mercy. Universal mercy/creation. |
+| **Shin** | 300 (Implicit) | Associated with the inheritance portion for brothers. |
+| **Ta** | 400 (Implicit) | Soil of the graves (Husayn, his father, the Imams, the Messenger of God). |
+| **Kha** | 600 (Implicit) | Seclusion of oneness and imposition of the separation of attributes. |
+| **Dhal** | 700 (Implicit) | Pinnacle of the Throne, Paradise, ranks, and everything named. |
+| **Dad** | 800 (Implicit) | Associated with the 27th year of the writer's age. |
+| **Zha** | 900 (Implicit) | The letter that God created at the end of the name of 'Ali. |
+
+**Key Numerical and Esoteric Terms:**
+
+| Term | Numerical Value (if defined) | Meaning |
+|------------------------|------------------------|------------------------|
+| **Hayy (The Living)** | 18 | The number of the Letters of the Living. |
+| **Vahid (Unity)** | 19 | The number of the Signs of Unity, Manifestations, and the 19 units that revolve. It is the numerical basis for the Bayán (19 months, 19 days). |
+| **Kull Shay’ (All Things)** | 361 (19 x 19) | The totality of creation, representing the number of the year. |
+| **Mustaghath (One Invoked for Help)** | 2010 (Implicit) | The ultimate number of the divine names. The number is related to the maximum limit of names revealed. |
+| **Baha (Splendor)** | 9 (Implicit) | A name of God. The number is associated with the name of Tahirih and Tehran. The month of Baha is singled out for Him Whom God shall make manifest. |
+| **Huva (He)** | 11 (Implicit) | The number 11 is the age where fasting becomes incumbent. The word Huva (He) is the essence of the mystery of the Point. |
+
+{{< pagebreak >}}
