@@ -8,7 +8,7 @@ book:
   version: "1st Draft"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "10/05/2025"
+  date: "10/06/2025"
   downloads: [pdf]
   
   chapters:
@@ -59,6 +59,7 @@ book:
         - Appendix 3.qmd
         - Appendix 4.qmd
         - Appendix 5.qmd
+        - Appendix 6.qmd
 ##    - part: "The Kitab-i-Aqdas"
 ##      chapters: 
 ##        - kitab-i-aqdas.qmd

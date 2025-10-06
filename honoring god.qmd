@@ -118,12 +118,12 @@ The Qur'an does not specify an exact amount, but it states in multiple places to
 
 For example, in the days of Baha'u'llah a person could pay a slave's debt, or take another financial measure to free them. A person could offer a bed to someone travelling. A Trustee of alms could receive money for their role as a Trustee. There is no rigid practice. One may honor God as they please.
 
-## The Bayanic Calendar {#sec-the-bayanic-calendar .unnumbered}
+## The Bayanic Calendar {#sec-the-bayanic-calendar}
 
 The Bayanic calendar was first introduced by the Bab in the Book of the Reckoning. In it, He creates a system of divine time with 19 months of 19 days. Each month is named after a name of God, and the days of the week are named after spiritual qualities. Below is a table describing the months:
 
 | Month \# | Arabic Name | English Name | Elemental Phase | Thematic Phase | Spiritual Function |
-|:--:|:--:|:--:|:--:|:--:|:--:|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | 1 | Bahá’ | Splendor | Fire | Glorification | The Point; essence of all months; attributed to “He Whom God Shall Make Manifest”; Naw-Rúz = Day of “There is no God but God” |
 | 2 | Jalál | Glory | Fire | Glorification | Kindles the fire of hearts; glory of divine majesty |
 | 3 | Jamál | Beauty | Fire | Glorification | Radiates divine beauty; fuels yearning and love |
@@ -179,7 +179,7 @@ Naw-Ruz is a festival for those who observed the fast out of love for God.[^hono
 
 [^honoring-god-32]: BH00215
 
-### **Ridván:** **13 Jalál to 5 Jamál**
+### Ridván: 13 Jalál to 5 Jamál
 
 Ridvan is "the Most Great Festival, which is the king of festivals, being those days when the Ancient Beauty emerged from the Most Great House and illumined the Najibiyyih Garden with the light of His countenance. This is also called the Festival of Ridvan and the Festival of Roses, comprising twelve days from the Ancient Beauty’s first entry into that garden at the afternoon hour of the thirty-second day after Naw-Ruz, until His departure from the garden at noon of the forty-third day after Naw-Ruz. Work is forbidden on three days of this blessed festival: the first day, from afternoon to afternoon; the ninth day; and the final day. On the remaining days they may engage in their occupations."[^honoring-god-33]
 
