@@ -1,11 +1,11 @@
 ---
-title: "Appendix 6"
+title: "Appendix 6: Child Development Model"
 ---
 
-## Child Development Model: Birth to Age 19 (Bayánic Calendar Alignment)
+## From Birth to Age 19 (Bayánic Calendar Alignment)
 
 | Approx. Age | Arabic Name | English Name | Developmental Theme |
-|------------|------------|-------------|------------------------------------|
+|--------------|--------------|--------------|------------------------------|
 | 0–1 | Bahá’ (بهاء) | Splendor | The soul awakens to existence, radiant and receptive, reflecting divine beauty. This is the first awareness of life’s light and the sacredness of being. |
 | 1–2 | Jalál (جلال) | Glory | The infant discovers the majesty of love through attachment and trust, sensing protection and reverence in caregivers, laying the foundation for awe before God. |
 | 2–3 | Jamál (جمال) | Beauty | Joy, play, and affection blossom. The child learns harmony and attraction, feeling the beauty of creation and the delight of being loved and loving. |
