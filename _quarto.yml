@@ -8,13 +8,13 @@ book:
   version: "1st Draft"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "10/19/2025"
+  date: "11/21/2025"
   downloads: [pdf]
   
   chapters:
     - index.qmd
     - intro.qmd
-    - part: "The Pillars of Belief"
+    - part: "Part1: The Pillars of Belief"
       chapters: 
         - belief in god.qmd
         - belief in the human station.qmd
@@ -22,7 +22,7 @@ book:
         - belief in the day.qmd
         - belief in the commands of god.qmd
         - belief in the manifestation of god.qmd
-    - part: "The Relationship with God"
+    - part: "Part 2: The Relationship with God"
       chapters: 
         - foundational virtues.qmd
         - obligatory prayer.qmd
@@ -31,7 +31,7 @@ book:
         - reflection.qmd
         - honoring god.qmd
         - unity.qmd
-    - part: "Rights and Responsibilities"
+    - part: "Part 3: Rights and Responsibilities"
       chapters: 
         - from birth to maturity.qmd
         - maturity to devotion.qmd
@@ -41,17 +41,15 @@ book:
         - relationships.qmd
         - trusteeship.qmd
         - consultation.qmd
+    - part: "Part 4: Leadership After Baha'u'llah"
+      chapters: 
+        - houses of justice.qmd
+##        - spiritual leadership.qmd
+##        - spiritual successorship.qmd
+##        - political leadership.qmd
+##        - trusteeship governance.qmd
+##        - teaching the cause.qmd
 
-##    - part: "Governance"
-##      chapters: 
-##        - form.qmd
-##        - funding.qmd
-##        - functions.qmd
-##        - leadership before hoj.qmd
-##        - prophecy.qmd
-##        - leaders of religion.qmd
-##        - leaders sovereign.qmd
-##        - mirza yahya.qmd
     - part: "Appendices"
       chapters:
         - Appendix 1.qmd
