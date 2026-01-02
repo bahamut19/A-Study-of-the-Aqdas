@@ -8,7 +8,7 @@ book:
   version: "1st Draft"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "1/1/2026"
+  date: "1/2/2026"
   downloads: [pdf]
   
   chapters:
@@ -46,7 +46,7 @@ book:
         - houses of justice.qmd
         - political leadership.qmd
         - spiritual leadership.qmd
-##        - spiritual successorship.qmd
+        - spiritual successorship.qmd
 
 ##        - trusteeship governance.qmd
 ##        - teaching the cause.qmd
