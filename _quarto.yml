@@ -8,7 +8,7 @@ book:
   version: "1st Draft"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "1/6/2026"
+  date: "1/16/2026"
   downloads: [pdf]
   
   chapters:
@@ -47,8 +47,7 @@ book:
         - political leadership.qmd
         - spiritual leadership.qmd
         - spiritual successorship.qmd
-
-##        - trusteeship governance.qmd
+        - peace.qmd
 ##        - teaching the cause.qmd
 
     - part: "Appendices"
