@@ -8,7 +8,7 @@ book:
   version: "1st Draft"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "1/16/2026"
+  date: "1/17/2026"
   downloads: [pdf]
   
   chapters:
@@ -48,7 +48,7 @@ book:
         - spiritual leadership.qmd
         - spiritual successorship.qmd
         - peace.qmd
-##        - teaching the cause.qmd
+        - serving the cause.qmd
 
     - part: "Appendices"
       chapters:
@@ -59,15 +59,8 @@ book:
         - Appendix 5.qmd
         - Appendix 6.qmd
         - Appendix 7.qmd
-##    - part: "The Kitab-i-Aqdas"
-##      chapters: 
-##        - kitab-i-aqdas.qmd
-##    - summary.qmd
-##    - references.qmd
 
-  output-file: "The Aqdas as Life"
-
-## bibliography: references.bib
+  output-file: "Achieving True Liberation: A Study of the Kitab-i-Aqdas"
 
 format:
   html:

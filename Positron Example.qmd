@@ -1,8 +1,0 @@
----
-title: "Positron Example"
-format: html
----
-
-# Yo Dawg!
-
-Testing how Positron works for the book.
