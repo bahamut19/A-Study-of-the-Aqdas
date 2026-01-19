@@ -1,5 +1,5 @@
-# Index {#sec-index .unnumbered}
+#  {#blankheader .unnumbered}
 
-![](images/Aqdas%20Book%20Cover.png)
+![Generated Using GPT5.2](images/Achieving%20True%20Freedom%20Cover.png)
 
 {{< pagebreak >}}
