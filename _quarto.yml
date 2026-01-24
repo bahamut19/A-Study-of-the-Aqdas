@@ -3,18 +3,18 @@ project:
   output-dir: _book
 
 book:
-  title: "Achieving True Freedom"
+  title: "Achieving True Liberation"
   subtitle: "An Exploration of the Kitab-i-Aqdas"
-  version: "Version 1.01"
+  version: "Version 1.02"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "1/18/2026"
+  date: "1/24/2026"
   downloads: [pdf]
   
   chapters:
     - index.qmd
     - intro.qmd
-    - part: "Part1: The Pillars of Belief"
+    - part: "Part 1: The Pillars of Belief"
       chapters: 
         - belief in god.qmd
         - belief in the human station.qmd
@@ -59,6 +59,7 @@ book:
         - Appendix 5.qmd
         - Appendix 6.qmd
         - Appendix 7.qmd
+        - Appendix 8.qmd
 
   output-file: "Achieving True Liberation: A Study of the Kitab-i-Aqdas"
 

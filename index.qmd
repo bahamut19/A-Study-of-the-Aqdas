@@ -1,4 +1,4 @@
-#  {#blankheader .unnumbered}
+# Cover {#sec-cover .unnumbered}
 
 ![Generated Using GPT5.2](images/Achieving%20True%20Freedom%20Cover.png)
 
