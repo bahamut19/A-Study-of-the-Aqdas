@@ -5,7 +5,7 @@ project:
 book:
   title: "Achieving True Liberation"
   subtitle: "An Exploration of the Kitab-i-Aqdas"
-  version: "Version 1.02"
+  version: "Version 1.03"
   author: "Joshua W. Adams"
   reader-mode: true
   date: "1/24/2026"
@@ -17,7 +17,7 @@ book:
     - part: "Part 1: The Pillars of Belief"
       chapters: 
         - belief in god.qmd
-        - belief in the human station.qmd
+        - belief in the human soul.qmd
         - belief in the worlds.qmd
         - belief in the day.qmd
         - belief in the commands of god.qmd
