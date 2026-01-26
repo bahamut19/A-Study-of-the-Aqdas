@@ -5,10 +5,10 @@ project:
 book:
   title: "Achieving True Liberation"
   subtitle: "An Exploration of the Kitab-i-Aqdas"
-  version: "Version 1.03"
+  version: "Version 1.04"
   author: "Joshua W. Adams"
   reader-mode: true
-  date: "1/24/2026"
+  date: "1/25/2026"
   downloads: [pdf]
   
   chapters:
@@ -53,6 +53,7 @@ book:
     - part: "Appendices"
       chapters:
         - Appendix 1.qmd
+        - Appendix 9.qmd
         - Appendix 2.qmd
         - Appendix 3.qmd
         - Appendix 4.qmd
