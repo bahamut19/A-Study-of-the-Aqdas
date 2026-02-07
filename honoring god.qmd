@@ -123,7 +123,7 @@ For example, in the days of Baha'u'llah a person could pay a slave's debt, or ta
 The Bayanic calendar was first introduced by the Bab in the Book of the Reckoning. In it, He creates a system of divine time with 19 months of 19 days. Each month is named after a name of God, and the days of the week are named after spiritual qualities. Below is a table describing the months:
 
 | Month \# | Arabic Name | English Name | Elemental Phase | Thematic Phase | Spiritual Function |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | Bahá’ | Splendor | Fire | Glorification | The Point; essence of all months; attributed to “He Whom God Shall Make Manifest”; Naw-Rúz = Day of “There is no God but God” |
 | 2 | Jalál | Glory | Fire | Glorification | Kindles the fire of hearts; glory of divine majesty |
 | 3 | Jamál | Beauty | Fire | Glorification | Radiates divine beauty; fuels yearning and love |
