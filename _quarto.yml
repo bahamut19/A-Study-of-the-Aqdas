@@ -7,8 +7,7 @@ book:
   subtitle: "An Exploration of the Kitab-i-Aqdas"
   version: "Version 1.2"
   author: "Joshua W. Adams"
-  reader-mode: true
-  date: "2/8/2026"
+  date: "2/14/2026"
   downloads: [pdf]
   
   chapters:
@@ -49,11 +48,11 @@ book:
         - spiritual successorship.qmd
         - peace.qmd
         - serving the cause.qmd
-
     - part: "Appendices"
       chapters:
         - Appendix 1.qmd
         - Appendix 9.qmd
+        - Appendix 10.qmd
         - Appendix 2.qmd
         - Appendix 3.qmd
         - Appendix 4.qmd
@@ -62,21 +61,25 @@ book:
         - Appendix 7.qmd
         - Appendix 8.qmd
 
-  output-file: "Achieving True Liberation: A Study of the Kitab-i-Aqdas"
-
 format:
   html:
     theme: cosmo
   pdf:
+    pdf-engine: xelatex
     documentclass: scrbook
-    output-file: "The Aqdas as Life"
+    output-file: "Achieving-True-Liberation-Study-of-Aqdas.pdf"
     fontsize: 11pt
-    number-depth: 6
     toc-depth: 1
+    number-depth: 6
+    include-in-header: 
+      text: |
+        \usepackage{mathpazo} 
+        \usepackage[T1]{fontenc}
+        \hfuzz=10pt
+        \def\mathfamilydefault{\rmdefault}
   docx:
     reference-doc: reference1.docx
     toc-depth: 1
     number-depth: 6
 
 editor: visual
-

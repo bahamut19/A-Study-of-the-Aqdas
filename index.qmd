@@ -1,5 +1,5 @@
 # Cover {#sec-cover .unnumbered}
 
-![Generated Using GPT5.2](images/Achieving%20True%20Freedom%20Cover.png)
+![Generated using ChatGPT 5.2](images/Achieving True Freedom Cover.png)
 
 {{< pagebreak >}}
