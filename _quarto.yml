@@ -5,9 +5,8 @@ project:
 book:
   title: "Achieving True Liberation"
   subtitle: "An Exploration of the Kitab-i-Aqdas"
-  version: "Version 1.2"
   author: "Joshua W. Adams"
-  date: "2/14/2026"
+  date: "2/19/2026"
   downloads: [pdf]
   
   chapters:
