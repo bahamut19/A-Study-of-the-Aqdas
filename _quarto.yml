@@ -6,7 +6,7 @@ book:
   title: "Achieving True Liberation"
   subtitle: "An Exploration of the Kitab-i-Aqdas"
   author: "Joshua W. Adams"
-  date: "3/4/2026"
+  date: "3/5/2026"
   downloads: [pdf]
   
   chapters:
@@ -54,11 +54,10 @@ book:
         - Appendix C.qmd
         - Appendix D.qmd
         - Appendix E.qmd
-        - Appendix 4.qmd
-        - Appendix 5.qmd
-        - Appendix 6.qmd
-        - Appendix 7.qmd
-        - Appendix 8.qmd
+        - Appendix F.qmd
+        - Appendix G.qmd
+        - Appendix H.qmd
+        - Appendix I.qmd
 
 format:
   html:
@@ -70,6 +69,7 @@ format:
     fontsize: 11pt
     toc-depth: 1
     number-depth: 6
+    tbl-longtable: true
     include-in-header: 
       text: |
         \usepackage{mathpazo} 

@@ -1,0 +1,84 @@
+# Appendix I: Political Leaders in 1873 {.unnumbered}
+
+The Kitáb-i-Aqdas was revealed by Bahá’u’lláh in 1873 during a period of profound political transformation across the world. Empires, monarchies, and newly independent republics coexisted in a rapidly changing global order, providing the historical context in which the laws and principles of the Kitáb-i-Aqdas were first addressed to humanity.
+
+## Table: Politcal Leaders Of the Americas {.longtable}
+
+| Nation / Power | Status (1873) | Independence Year | Head of State (in 1873) | Title |
+|---------------|---------------|---------------|---------------|---------------|
+| United States | Independent | 1776 | Ulysses S. Grant | President |
+| Haiti | Independent | 1804 | Michel Domingue | President |
+| Paraguay | Independent | 1811 | Salvador Jovellanos | President |
+| Venezuela | Independent | 1811 | Antonio Guzmán Blanco | President |
+| Argentina | Independent | 1816 | Domingo Faustino Sarmiento | President |
+| Chile | Independent | 1818 | Federico Errázuriz Zañartu | President |
+| Colombia | Independent | 1819 | Manuel Murillo Toro | President |
+| Mexico | Independent | 1821 | Sebastián Lerdo de Tejada | President |
+| Peru | Independent | 1821 | Manuel Pardo y Lavalle | President |
+| Guatemala | Independent | 1821 | Justo Rufino Barrios | President |
+| El Salvador | Independent | 1821 | Santiago González | President |
+| Honduras | Independent | 1821 | Carlos Céleo Arias | President |
+| Nicaragua | Independent | 1821 | José Diriangén Dávila | President |
+| Costa Rica | Independent | 1821 | Tomás Guardia Gutiérrez | President |
+| Brazil | Independent | 1822 | Pedro II | Emperor |
+| Ecuador | Independent | 1822 | Gabriel García Moreno | President |
+| Bolivia | Independent | 1825 | Adolfo Ballivián | President |
+| Uruguay | Independent | 1825 | Tomás Gomensoro | Interim President |
+| Dominican Republic | Independent | 1844 | Ignacio González | President |
+| United Kingdom | Colonial Power | N/A | Queen Victoria | Queen |
+| Spain | Colonial Power | N/A | Emilio Castelar | President[^appendix-i-1] |
+| Netherlands | Colonial Power | N/A | William III | King |
+| France | Colonial Power | N/A | Patrice de MacMahon | President[^appendix-i-2] |
+| Denmark | Colonial Power | N/A | Christian IX | King |
+
+[^appendix-i-1]: The Spanish political situation was highly unstable in 1873. King Amadeo I abdicated in February, and the First Spanish Republic was proclaimed. Therefore Spain's head of state in the latter half of 1873, ruling Cuba and Puerto Rico, was the President of the Executive Power Emilio Castelar.
+
+[^appendix-i-2]: France was under the Third Republic in 1873. It was not ruled by a monarch but by a President, Patrice de MacMahon, who governed the French colonies in the Americas such as French Guiana and Martinique.
+
+## Table: Political Leaders Of Europe {.longtable}
+
+| Nation | Status (1873) | Head of State (in 1873) | Title |
+|----|----|----|----|
+| German Empire | Empire | Wilhelm I | Emperor (Kaiser) |
+| Austria Hungary | Dual Monarchy | Franz Joseph I | Emperor King |
+| United Kingdom | Monarchy | Queen Victoria | Queen |
+| Russian Empire | Empire | Alexander II | Emperor (Tsar) |
+| French Republic | Republic | Patrice de MacMahon | President |
+| Ottoman Empire | Empire | Sultan Abdülaziz | Sultan Padishah |
+| Kingdom of Italy | Monarchy | Victor Emmanuel II | King |
+| Spain | Republic\* | Emilio Castelar | President\* |
+| Kingdom of Portugal | Monarchy | Luís I | King |
+| Kingdom of Sweden | Monarchy | Oscar II | King |
+| Kingdom of Greece | Monarchy | George I | King |
+| Kingdom of Belgium | Monarchy | Leopold II | King |
+| Kingdom of the Netherlands | Monarchy | William III | King |
+
+## Table: Political Leaders Of Africa {.longtable}
+
+| Nation / State | Political Status (1873) | Head of State (in 1873) | Title |
+|------------------|------------------|------------------|------------------|
+| Ethiopian Empire | Independent Empire | Yohannes IV | Emperor (Nəgusä Nägäst) |
+| Republic of Liberia | Independent Republic | Joseph Jenkins Roberts | President |
+| Egypt Khedivate | Autonomous State under Ottoman suzerainty | Isma'il Pasha | Khedive |
+| Sultanate of Morocco | Independent Sultanate | Hassan I | Sultan |
+| Tunis Beylik | Autonomous State under Ottoman suzerainty | Muhammad III as Sadiq | Bey |
+| Oman and Zanzibar Sultanate | Independent | Sayyid Barghash bin Said | Sultan |
+| Asante Empire | Independent Empire | Kofi Karikari | Asantehene |
+| Merina Kingdom Madagascar | Independent Kingdom | Ranavalona II | Queen |
+
+## Table: Political Leaders Of Asia {.longtable}
+
+| Nation / State | Political Status (1873) | Head of State (in 1873) | Title |
+|------------------|------------------|------------------|------------------|
+| Qing Dynasty China | Empire | Tongzhi Emperor | Emperor |
+| Meiji Japan | Empire | Emperor Meiji (Mutsuhito) | Emperor |
+| Persia Qajar Dynasty | Empire | Nasser al Din Shah Qajar | Shah (King of Kings) |
+| Siam Thailand | Kingdom | Chulalongkorn (Rama V) | King |
+| Afghanistan | Emirate | Sher Ali Khan | Amir |
+| Vietnam Nguyễn Dynasty | Empire under increasing French pressure | Tự Đức | Emperor |
+| British India | Colonial Crown Rule | Queen Victoria | Empress of India |
+| Dutch East Indies Indonesia | Colony | William III | King Sovereign Power |
+| Joseon Korea | Kingdom | Gojong | King |
+| Khivan Khanate | Khanate conquered by Russia in 1873 | Muhammad Rahim Khan II | Khan |
+
+{{< pagebreak >}}
