@@ -5,7 +5,7 @@ title: "Appendix 5: Letters and Meanings"
 The following is a list of Arabic letters, their associated numerical values (based on the abjad system where utilized in the sources), and the primary symbolism ascribed to them:
 
 | Letter (Arabic) | Abjad Value (Standard/Contextual) | Symbolism and Significance |
-|------------------|---------------------------|---------------------------|
+|----|----|----|
 | **Alif** | 1 (Implicit in sequence/One) | Represents the Divine Identity, blessings upon creation, and the letter of beginning. Symbol of affirmation in the utterance "but God". The first letter that spoke from God. Its total number of letters (A-L-F) is the number of the Most Exalted Name. It is the origin of all contingent and existential numbers. |
 | \- *Hidden Alif* (Soft Alif) | \- | Station of Destiny or Beauty, reflects the countenance of 'Ali (reserved for his successor). |
 | \- *Standing Alif* | \- | Established all creation in the kingdoms of creation and command. |
@@ -37,7 +37,7 @@ The following is a list of Arabic letters, their associated numerical values (ba
 **Key Numerical and Esoteric Terms:**
 
 | Term | Numerical Value (if defined) | Meaning |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Hayy (The Living)** | 18 | The number of the Letters of the Living. |
 | **Vahid (Unity)** | 19 | The number of the Signs of Unity, Manifestations, and the 19 units that revolve. It is the numerical basis for the Bayán (19 months, 19 days). |
 | **Kull Shay’ (All Things)** | 361 (19 x 19) | The totality of creation, representing the number of the year. |

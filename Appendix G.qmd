@@ -5,8 +5,8 @@ The stages in this model mirror the nineteen months of the Badíʿ calendar, sug
 ## Table: Yearly Development {.longtable}
 
 | Age | Month | Developmental Insight |
-|------------|-----------------|--------------------------------------|
-| 0 to 1 | Bahá’ (بهاء)<br>Splendor | The soul awakens to existence, radiant and receptive, reflecting divine beauty. This is the first awareness of life’s light and the sacredness of being. |
+|------------------------|------------------------|------------------------|
+| 0 to 1 | Bahá’ {{\\arabicfont بهاء\\}}<br>Splendor | The soul awakens to existence, radiant and receptive, reflecting divine beauty. This is the first awareness of life’s light and the sacredness of being. |
 | 1 to 2 | Jalál (جلال)<br>Glory | The infant discovers the majesty of love through attachment and trust, sensing protection and reverence in caregivers and laying the foundation for awe before God. |
 | 2 to 3 | Jamál (جمال)<br>Beauty | Joy, play, and affection blossom. The child learns harmony and attraction, feeling the beauty of creation and the delight of being loved and loving. |
 | 3 to 4 | ‘Aẓamat (عظمة)<br>Grandeur | Expanding curiosity, the child begins to perceive vastness and order in the world. A sense of wonder and respect for greatness takes root. |

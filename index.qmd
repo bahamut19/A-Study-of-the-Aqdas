@@ -1,5 +1,18 @@
-# Cover {#sec-cover .unnumbered}
+```{=latex}
+\begin{center}
+\itshape
+```
 
-![Generated using ChatGPT 5.2](images/Achieving True Freedom Cover.png)
+# In Gratitude  {.unnumbered}
 
-{{< pagebreak >}}
+This book was inspired by the many who challenged and supported me through the years. I am deeply grateful to family, friends, and spiritual kin. Without them, this book would mean nothing to me. 
+
+Most of all, I want to thank God for allowing me the opportunity to read His words, collaborate with diverse perspectives, and write the following pages. 
+
+From the very depths of myself... 
+
+Thank you!
+
+```{=latex}
+\end{center}
+```
