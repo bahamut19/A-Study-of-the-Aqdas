@@ -2,14 +2,46 @@
 
 The levels in this model move from the formation of personal integrity to the ordering of collective life. At each level, the pattern of witnessing, trusteeship, and helping shows how perception, responsibility, and action must remain united.
 
-## Table: Trusteeship Levels and Roles {.longtable}
+## Trusteeship Levels and Roles
 
-| Level of Authority | Objective | Functional Roles | Witness (The Observation) | Trustee (The Responsibility) | Helper (The Action) |
-|------------|------------|------------|------------|------------|------------|
-| Level 1: Inspiration | Individual Integrity and Truth | Artist, Scientist, Friend | Identifying the divine names, virtues, and laws of reality | Guarding the purity of truth, creativity, and personal loyalty | Inspiring radiance and independent investigation in others |
-| Level 2: Education | Moral and Spiritual Upbringing | Parent, Teacher, Scholar, Religious Leader | Noticing the specific milk, fruit, or meat required for a soul's growth | Acting as a spiritual physician for those in one's care | Healing trauma and nurturing God consciousness through wisdom |
-| Level 3: Honor | Human Rights and Social Identity | Social Work Organizer, NGO Leader, Lawyer | Recognizing where the right to identity or honor is being oppressed | Protecting the sacred boundaries of the soul and the property of others | Intervening against slander and advocating for the vulnerable |
-| Level 4: Welfare | Provision and Community Support | Business Owner or Manager, Wealth Manager | Viewing wealth and resources not as personal status but as public trust | Managing endowments and capital for the salvation of nations | Generating ethical prosperity and funding elevated places of service |
-| Level 5: Governance | Global and Local Peace | Politician, Legislator, Judge, Monarch, Diplomat, General | Discerning common affairs and the collective security of the people | Exercising authority only through consent and consultation | Establishing the Lesser Peace and protecting the rights of all |
+### Level 1: Inspiration
+
+-   **Objective:** Individual Integrity and Truth
+-   **Functional Roles:** Artist, Scientist, Friend
+-   **Witness (The Observation):** Identifying the divine names, virtues, and laws of reality
+-   **Trustee (The Responsibility):** Guarding the purity of truth, creativity, and personal loyalty
+-   **Helper (The Action):** Inspiring radiance and independent investigation in others
+
+### Level 2: Education
+
+-   **Objective:** Moral and Spiritual Upbringing
+-   **Functional Roles:** Parent, Teacher, Scholar, Religious Leader
+-   **Witness (The Observation):** Noticing the specific milk, fruit, or meat required for a soul's growth
+-   **Trustee (The Responsibility):** Acting as a spiritual physician for those in one's care
+-   **Helper (The Action):** Healing trauma and nurturing God consciousness through wisdom
+
+### Level 3: Honor
+
+-   **Objective:** Human Rights and Social Identity
+-   **Functional Roles:** Social Work Organizer, NGO Leader, Lawyer
+-   **Witness (The Observation):** Recognizing where the right to identity or honor is being oppressed
+-   **Trustee (The Responsibility):** Protecting the sacred boundaries of the soul and the property of others
+-   **Helper (The Action):** Intervening against slander and advocating for the vulnerable
+
+### Level 4: Welfare
+
+-   **Objective:** Provision and Community Support
+-   **Functional Roles:** Business Owner or Manager, Wealth Manager
+-   **Witness (The Observation):** Viewing wealth and resources not as personal status but as public trust
+-   **Trustee (The Responsibility):** Managing endowments and capital for the salvation of nations
+-   **Helper (The Action):** Generating ethical prosperity and funding elevated places of service
+
+### Level 5: Governance
+
+-   **Objective:** Global and Local Peace
+-   **Functional Roles:** Politician, Legislator, Judge, Monarch, Diplomat, General
+-   **Witness (The Observation):** Discerning common affairs and the collective security of the people
+-   **Trustee (The Responsibility):** Exercising authority only through consent and consultation
+-   **Helper (The Action):** Establishing the Lesser Peace and protecting the rights of all
 
 {{< pagebreak >}}

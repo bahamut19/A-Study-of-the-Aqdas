@@ -6,16 +6,14 @@ book:
   title: "Achieving True Liberation"
   subtitle: "An Exploration of the Kitab-i-Aqdas"
   author: "Joshua W. Adams"
-  date: "March 9, 2026"
-  edition: "First Edition"
-  downloads: [pdf, docx]
+  downloads: [pdf, docx, epub]
   search: true
   page-navigation: true
   reader-mode: true
   sidebar:
     style: docked
     search: true
-  cover-image: "images/Achieving True Freedom Cover.png"
+  cover-image: "images/Crimson Ark Cover.png"
   
   chapters:
     - index.qmd
@@ -72,12 +70,16 @@ format:
     theme:
       light: minty
     toc: true
-    toc-depth: 2
+    toc-depth: 3
     number-sections: true
     smooth-scroll: true
     anchor-sections: true
     code-copy: false
     link-external-newwindow: true
+    page-footer:
+      left: "© 2026 Joshua W. Adams"
+      center: "Achieving True Liberation"
+      right: "ISBN: 978-XXXXXXXXXX"
     grid:
       sidebar-width: 275px
       body-width: 900px
@@ -109,10 +111,17 @@ format:
         \usepackage{tocloft}
         \setlength{\cftbeforechapskip}{0pt}
         \setlength{\cftbeforesecskip}{0pt}
-        
+
+  epub:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    output-file: "Achieving-True-Liberation.epub"
+    cover-image: "images/Crimson Ark Cover.png"
+  
   docx:
     reference-doc: reference1.docx
     toc-depth: 1
-    number-depth: 6
+    number-depth: 3
 
 editor: visual

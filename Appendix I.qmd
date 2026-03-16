@@ -38,7 +38,7 @@ The Kitáb-i-Aqdas was revealed by Bahá’u’lláh in 1873 during a period of 
 ## Table: Political Leaders Of Europe {.longtable}
 
 | Nation | Status (1873) | Head of State (in 1873) | Title |
-|----|----|----|----|
+|----------------|---------------|------------------|----------------|
 | German Empire | Empire | Wilhelm I | Emperor (Kaiser) |
 | Austria Hungary | Dual Monarchy | Franz Joseph I | Emperor King |
 | United Kingdom | Monarchy | Queen Victoria | Queen |

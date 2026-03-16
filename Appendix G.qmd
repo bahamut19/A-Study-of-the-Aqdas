@@ -4,27 +4,85 @@ The stages in this model mirror the nineteen months of the Badíʿ calendar, sug
 
 ## Table: Yearly Development {.longtable}
 
-| Age | Month | Developmental Insight |
-|------------------------|------------------------|------------------------|
-| 0 to 1 | Bahá’ {{\\arabicfont بهاء\\}}<br>Splendor | The soul awakens to existence, radiant and receptive, reflecting divine beauty. This is the first awareness of life’s light and the sacredness of being. |
-| 1 to 2 | Jalál (جلال)<br>Glory | The infant discovers the majesty of love through attachment and trust, sensing protection and reverence in caregivers and laying the foundation for awe before God. |
-| 2 to 3 | Jamál (جمال)<br>Beauty | Joy, play, and affection blossom. The child learns harmony and attraction, feeling the beauty of creation and the delight of being loved and loving. |
-| 3 to 4 | ‘Aẓamat (عظمة)<br>Grandeur | Expanding curiosity, the child begins to perceive vastness and order in the world. A sense of wonder and respect for greatness takes root. |
-| 4 to 5 | Núr (نور)<br>Light | Awareness sharpens as understanding grows. The child names, identifies, and learns through light, discovering meaning and the joy of illumination and learning. |
-| 5 to 6 | Raḥmat (رحمة)<br>Mercy | Compassion awakens as the child begins to care for others. Empathy, tenderness, and forgiveness become part of emotional life and social connection. |
-| 6 to 7 | Kalimát (كلمات)<br>Words | Speech and comprehension deepen. The child learns the creative power of words, recognizing truth, honesty, and communication as spiritual acts. |
-| 7 to 8 | Kamál (كمال)<br>Perfection | Awareness of right and wrong matures. The child seeks to act correctly, striving toward goodness and self improvement with growing self discipline and sincerity. |
-| 8 to 9 | Asmá’ (أسماء)<br>Names | The child discovers identity and individuality, learning that every person reflects divine attributes. Personal dignity and respect for others emerge. |
-| 9 to 10 | ‘Izzat (عزة)<br>Might | Confidence and independence develop. The child feels inner strength and begins to test limits, learning that true might is tempered by humility. |
-| 10 to 11 | Mashíyyat (مشية)<br>Will | The sense of choice awakens. The young mind begins to understand purpose, intention, and the difference between impulse and deliberate action. |
-| 11 to 12 | ‘Ilm (علم)<br>Knowledge | Curiosity matures into genuine inquiry. The child learns to question, reason, and seek knowledge with reverence, marking the dawn of moral reflection. |
-| 12 to 13 | Qudrat (قدرت)<br>Power | Self confidence and courage increase. The youth begins to act with conviction, recognizing personal strength as a trust to be used with justice. |
-| 13 to 14 | Qawl (قول)<br>Speech | Expression becomes more purposeful. The ability to articulate beliefs and values emerges, along with awareness of how speech shapes truth and unity. |
-| 14 to 15 | Masá’il (مسائل)<br>Questions | The moral intellect awakens fully. The youth questions deeply, seeking meaning and coherence, preparing for responsibility and the trust of maturity. |
-| 15 to 16 | Sharaf (شرف)<br>Honor | A sense of duty and moral honor arises. The young person strives for integrity, respect, and steadfastness in upholding divine and personal principles. |
-| 16 to 17 | Sultán (سلطان)<br>Sovereignty | Personal sovereignty and leadership appear. The youth learns to govern the self, balancing independence with humility and care for others. |
-| 17 to 18 | Mulk (ملك)<br>Dominion | Wisdom consolidates as all capacities harmonize. The person begins to act responsibly within community life, exercising stewardship and social trust. |
-| 18 to 19 | ‘Alá’ (علاء)<br>Loftiness | Spiritual adulthood is attained. The individual embodies unity, love, and service, living as a helper of others and a conscious trustee of divine trust. |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Age                  | Month                | Developmental Insight                                                                                                                                               |
++======================+======================+=====================================================================================================================================================================+
+| 0 to 1               | Bahá’                | The soul awakens to existence, radiant and receptive, reflecting divine beauty. This is the first awareness of life’s light and the sacredness of being.            |
+|                      |                      |                                                                                                                                                                     |
+|                      | Splendor             |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1 to 2               | Jalál                | The infant discovers the majesty of love through attachment and trust, sensing protection and reverence in caregivers and laying the foundation for awe before God. |
+|                      |                      |                                                                                                                                                                     |
+|                      | Glory                |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2 to 3               | Jamál                | Joy, play, and affection blossom. The child learns harmony and attraction, feeling the beauty of creation and the delight of being loved and loving.                |
+|                      |                      |                                                                                                                                                                     |
+|                      | Beauty               |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3 to 4               | ‘Aẓamat              | Expanding curiosity, the child begins to perceive vastness and order in the world. A sense of wonder and respect for greatness takes root.                          |
+|                      |                      |                                                                                                                                                                     |
+|                      | Grandeur             |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 4 to 5               | Núr                  | Awareness sharpens as understanding grows. The child names, identifies, and learns through light, discovering meaning and the joy of illumination and learning.     |
+|                      |                      |                                                                                                                                                                     |
+|                      | Light                |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5 to 6               | Raḥmat               | Compassion awakens as the child begins to care for others. Empathy, tenderness, and forgiveness become part of emotional life and social connection.                |
+|                      |                      |                                                                                                                                                                     |
+|                      | Mercy                |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 6 to 7               | Kalimát              | Speech and comprehension deepen. The child learns the creative power of words, recognizing truth, honesty, and communication as spiritual acts.                     |
+|                      |                      |                                                                                                                                                                     |
+|                      | Words                |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7 to 8               | Kamál                | Awareness of right and wrong matures. The child seeks to act correctly, striving toward goodness and self improvement with growing self discipline and sincerity.   |
+|                      |                      |                                                                                                                                                                     |
+|                      | Perfection           |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 8 to 9               | Asmá’                | The child discovers identity and individuality, learning that every person reflects divine attributes. Personal dignity and respect for others emerge.              |
+|                      |                      |                                                                                                                                                                     |
+|                      | Names                |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 9 to 10              | ‘Izzat               | Confidence and independence develop. The child feels inner strength and begins to test limits, learning that true might is tempered by humility.                    |
+|                      |                      |                                                                                                                                                                     |
+|                      | Might                |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10 to 11             | Mashíyyat            | The sense of choice awakens. The young mind begins to understand purpose, intention, and the difference between impulse and deliberate action.                      |
+|                      |                      |                                                                                                                                                                     |
+|                      | Will                 |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 11 to 12             | ‘Ilm                 | Curiosity matures into genuine inquiry. The child learns to question, reason, and seek knowledge with reverence, marking the dawn of moral reflection.              |
+|                      |                      |                                                                                                                                                                     |
+|                      | Knowledge            |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 12 to 13             | Qudrat               | Self confidence and courage increase. The youth begins to act with conviction, recognizing personal strength as a trust to be used with justice.                    |
+|                      |                      |                                                                                                                                                                     |
+|                      | Power                |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 13 to 14             | Qawl                 | Expression becomes more purposeful. The ability to articulate beliefs and values emerges, along with awareness of how speech shapes truth and unity.                |
+|                      |                      |                                                                                                                                                                     |
+|                      | Speech               |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 14 to 15             | Masá’il              | The moral intellect awakens fully. The youth questions deeply, seeking meaning and coherence, preparing for responsibility and the trust of maturity.               |
+|                      |                      |                                                                                                                                                                     |
+|                      | Questions            |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 15 to 16             | Sharaf               | A sense of duty and moral honor arises. The young person strives for integrity, respect, and steadfastness in upholding divine and personal principles.             |
+|                      |                      |                                                                                                                                                                     |
+|                      | Honor                |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 16 to 17             | Sultán               | Personal sovereignty and leadership appear. The youth learns to govern the self, balancing independence with humility and care for others.                          |
+|                      |                      |                                                                                                                                                                     |
+|                      | Sovereignty          |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 17 to 18             | Mulk                 | Wisdom consolidates as all capacities harmonize. The person begins to act responsibly within community life, exercising stewardship and social trust.               |
+|                      |                      |                                                                                                                                                                     |
+|                      | Dominion             |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 18 to 19             | ‘Alá’                | Spiritual adulthood is attained. The individual embodies unity, love, and service, living as a helper of others and a conscious trustee of divine trust.            |
+|                      |                      |                                                                                                                                                                     |
+|                      | Loftiness            |                                                                                                                                                                     |
++----------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Overview
 
