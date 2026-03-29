@@ -2,7 +2,7 @@
 
 The Kitáb-i-Aqdas was revealed by Bahá’u’lláh in 1873 during a period of profound political transformation across the world. Empires, monarchies, and newly independent republics coexisted in a rapidly changing global order, providing the historical context in which the laws and principles of the Kitáb-i-Aqdas were first addressed to humanity.
 
-## Table: Politcal Leaders Of the Americas {.longtable}
+## Table: Political Leaders Of the Americas {.longtable}
 
 | Nation / Power | Status (1873) | Independence Year | Head of State (in 1873) | Title |
 |---------------|---------------|---------------|---------------|---------------|
@@ -37,8 +37,8 @@ The Kitáb-i-Aqdas was revealed by Bahá’u’lláh in 1873 during a period of 
 
 ## Table: Political Leaders Of Europe {.longtable}
 
-| Nation | Status (1873) | Head of State (in 1873) | Title |
-|----------------|---------------|------------------|----------------|
+| Nation | Political Status (1873) | Head of State (in 1873) | Title |
+|---------------|----------------|-----------------|------------------------|
 | German Empire | Empire | Wilhelm I | Emperor (Kaiser) |
 | Austria Hungary | Dual Monarchy | Franz Joseph I | Emperor King |
 | United Kingdom | Monarchy | Queen Victoria | Queen |
